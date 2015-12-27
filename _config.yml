@@ -1,0 +1,25 @@
+menu:
+  Home: /
+  Archives: /archives
+
+widgets: 
+- category
+- tag
+
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
+
+addthis:
+  enable: false
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+fancybox: false
+
+google_analytics:
+rss:
